@@ -1,0 +1,10 @@
+.list-item, .list-item-strikeThru{
+    display: block;
+    border: thin solid #eee;
+    margin: 10px;
+}
+
+.list-item-strikeThru{
+    text-decoration: line-through;
+    background-color: #aaa;
+}
